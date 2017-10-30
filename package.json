@@ -1,0 +1,33 @@
+{
+    "private": true,
+    "name": "vscode-extension-pack",
+    "displayName": "VS Code Extension Pack",
+    "description": "VS Code extension package 📦.",
+    "version": "0.0.1",
+    "publisher": "felicio",
+    "engines": {
+        "vscode": "^1.17.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionDependencies": [
+        "EditorConfig.EditorConfig",
+        "abusaidm.html-snippets",
+        "christian-kohler.npm-intellisense",
+        "christian-kohler.path-intellisense",
+        "dbaeumer.vscode-eslint",
+        "eg2.vscode-npm-script",
+        "esbenp.prettier-vscode",
+        "jasonnutter.search-node-modules",
+        "jpoissonnier.vscode-styled-components",
+        "msjsdiag.debugger-for-chrome",
+        "robertohuertasm.vscode-icons",
+        "shinnn.stylelint",
+        "vscodevim.vim",
+        "wayou.vscode-todo-highlight",
+        "wix.vscode-import-cost",
+        "xabikos.JavaScriptSnippets",
+        "xabikos.ReactSnippets"
+    ]
+}
